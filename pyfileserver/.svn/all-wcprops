@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7/trunk/pyfileserver
+END
+websupportfuncs.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/pyfileserver/websupportfuncs.py
+END
+propertylibrary.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/pyfileserver/propertylibrary.py
+END
+requestresolver.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/pyfileserver/requestresolver.py
+END
+httpdatehelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/pyfileserver/httpdatehelper.py
+END
+locklibrary.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/pyfileserver/locklibrary.py
+END
+httpauthentication.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/pyfileserver/httpauthentication.py
+END
+pyfiledomaincontroller.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/pyfileserver/pyfiledomaincontroller.py
+END
+mainappwrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/pyfileserver/mainappwrapper.py
+END
+etagprovider.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/pyfileserver/etagprovider.py
+END
+loadconfig_primitive.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/pyfileserver/loadconfig_primitive.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/pyfileserver/__init__.py
+END
+processrequesterrorhandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/pyfileserver/processrequesterrorhandler.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pyfileserver/utils.py
+END
+extrequestserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/pyfileserver/extrequestserver.py
+END
+fileabstractionlayer.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/pyfileserver/fileabstractionlayer.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pyxml/dom/ext/reader
+END
+PyExpat.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/pyxml/dom/ext/reader/PyExpat.py
+END
+HtmlLib.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/pyxml/dom/ext/reader/HtmlLib.py
+END
+Sax.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/pyxml/dom/ext/reader/Sax.py
+END
+Sax2.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/pyxml/dom/ext/reader/Sax2.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/pyxml/dom/ext/reader/__init__.py
+END
+HtmlSax.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/pyxml/dom/ext/reader/HtmlSax.py
+END
+Sgmlop.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/pyxml/dom/ext/reader/Sgmlop.py
+END
+Sax2Lib.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/pyxml/dom/ext/reader/Sax2Lib.py
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc
+END
+catalog.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/catalog.py
+END
+xmldtd.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/xmldtd.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/errors.py
+END
+namespace.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/namespace.py
+END
+_outputters.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/_outputters.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/utils.py
+END
+xmlutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/xmlutils.py
+END
+xmlapp.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/xmlapp.py
+END
+xcatalog.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/xcatalog.py
+END
+charconv.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/charconv.py
+END
+xmlval.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/xmlval.py
+END
+xmlproc.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/xmlproc.py
+END
+dtdparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/pyxml/parsers/xmlproc/dtdparser.py
+END

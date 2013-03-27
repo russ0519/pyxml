@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/pyxml/xpath
+END
+ExpandedNameWrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/pyxml/xpath/ExpandedNameWrapper.py
+END
+Set.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/pyxml/xpath/Set.py
+END
+XPathGrammar.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/pyxml/xpath/XPathGrammar.py
+END
+ParsedPredicateList.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/pyxml/xpath/ParsedPredicateList.py
+END
+XPathParserBase.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/pyxml/xpath/XPathParserBase.py
+END
+ParsedAxisSpecifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/pyxml/xpath/ParsedAxisSpecifier.py
+END
+pyxpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/pyxml/xpath/pyxpath.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/pyxml/xpath/__init__.py
+END
+XPathParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/pyxml/xpath/XPathParser.py
+END
+NamespaceNode.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/pyxml/xpath/NamespaceNode.py
+END
+yappsrt.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/pyxml/xpath/yappsrt.py
+END
+MessageSource.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/pyxml/xpath/MessageSource.py
+END
+Conversions.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/pyxml/xpath/Conversions.py
+END
+ParsedAbbreviatedRelativeLocationPath.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/pyxml/xpath/ParsedAbbreviatedRelativeLocationPath.py
+END
+ParsedStep.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/pyxml/xpath/ParsedStep.py
+END
+ParsedAbbreviatedAbsoluteLocationPath.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/pyxml/xpath/ParsedAbbreviatedAbsoluteLocationPath.py
+END
+ParsedExpr.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/pyxml/xpath/ParsedExpr.py
+END
+Util.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/pyxml/xpath/Util.py
+END
+BuiltInExtFunctions.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/pyxml/xpath/BuiltInExtFunctions.py
+END
+ParsedRelativeLocationPath.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/pyxml/xpath/ParsedRelativeLocationPath.py
+END
+CoreFunctions.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/pyxml/xpath/CoreFunctions.py
+END
+ParsedAbsoluteLocationPath.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/pyxml/xpath/ParsedAbsoluteLocationPath.py
+END
+ParsedNodeTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/pyxml/xpath/ParsedNodeTest.py
+END
+Context.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/pyxml/xpath/Context.py
+END

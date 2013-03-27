@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/pyfileserver/interfaces
+END
+propertymanagerinterface.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/pyfileserver/interfaces/propertymanagerinterface.py
+END
+lockmanagerinterface.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/pyfileserver/interfaces/lockmanagerinterface.py
+END
+abstractionlayerinterface.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/pyfileserver/interfaces/abstractionlayerinterface.py
+END
+domaincontrollerinterface.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/pyfileserver/interfaces/domaincontrollerinterface.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/pyfileserver/interfaces/__init__.py
+END

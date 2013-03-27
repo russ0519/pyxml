@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/pyxml/dom
+END
+CharacterData.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/pyxml/dom/CharacterData.py
+END
+NamedNodeMap.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/pyxml/dom/NamedNodeMap.py
+END
+Element.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pyxml/dom/Element.py
+END
+Notation.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pyxml/dom/Notation.py
+END
+minidom.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pyxml/dom/minidom.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pyxml/dom/__init__.py
+END
+Comment.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pyxml/dom/Comment.py
+END
+MessageSource.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/pyxml/dom/MessageSource.py
+END
+xmlbuilder.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/pyxml/dom/xmlbuilder.py
+END
+Entity.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/pyxml/dom/Entity.py
+END
+domreg.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/pyxml/dom/domreg.py
+END
+FtNode.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/pyxml/dom/FtNode.py
+END
+minitraversal.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/pyxml/dom/minitraversal.py
+END
+DocumentType.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/pyxml/dom/DocumentType.py
+END
+NodeList.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pyxml/dom/NodeList.py
+END
+javadom.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pyxml/dom/javadom.py
+END
+Event.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/pyxml/dom/Event.py
+END
+Text.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/pyxml/dom/Text.py
+END
+DOMImplementation.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/pyxml/dom/DOMImplementation.py
+END
+expatbuilder.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/pyxml/dom/expatbuilder.py
+END
+EntityReference.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/pyxml/dom/EntityReference.py
+END
+NodeFilter.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/pyxml/dom/NodeFilter.py
+END
+Range.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/pyxml/dom/Range.py
+END
+NodeIterator.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/pyxml/dom/NodeIterator.py
+END
+minicompat.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/pyxml/dom/minicompat.py
+END
+CDATASection.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/pyxml/dom/CDATASection.py
+END
+DocumentFragment.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/pyxml/dom/DocumentFragment.py
+END
+TreeWalker.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/pyxml/dom/TreeWalker.py
+END
+Attr.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/pyxml/dom/Attr.py
+END
+pulldom.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pyxml/dom/pulldom.py
+END
+ProcessingInstruction.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/pyxml/dom/ProcessingInstruction.py
+END
+Document.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pyxml/dom/Document.py
+END
